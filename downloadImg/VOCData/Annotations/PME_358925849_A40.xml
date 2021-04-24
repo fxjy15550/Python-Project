@@ -1,0 +1,26 @@
+<annotation>
+	<folder>足球</folder>
+	<filename>PME_358925849_A40.jpeg</filename>
+	<path>D:\FileStorage\Code\Pycharm Project\downloadImg\足球\PME_358925849_A40.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>485</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>42</ymin>
+			<xmax>448</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
